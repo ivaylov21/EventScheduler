@@ -1,0 +1,28 @@
+.login-container {
+	margin-left: 25%;
+}
+
+.hidden {
+	display: none;
+}
+
+.event-actions {
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+#addEventBtn {
+	float: right;
+}
+
+.action-buttons {
+	width: 100%;
+}
+
+.cell-center {
+	text-align: center;
+}
+
+.input-group {
+	margin: auto;
+}
